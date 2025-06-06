@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Route, Routes } from 'react-router'
 import Home from './pages/Home'
+import './styles/global.css';
 
 function App() {
   const [count, setCount] = useState(0)
