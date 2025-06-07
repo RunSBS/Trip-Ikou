@@ -5,6 +5,8 @@
     border-bottom:2px solid black;
     position: fixed;
     top:0;
+    background-color: #fff;
+    z-index:1000;
 }
 .wrapper-nav{
     display:flex;
